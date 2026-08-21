@@ -1,6 +1,6 @@
-# How to Unpack ICMP and TCP Packets in Python (Easy English Guide)
+# How to Unpack ICMP and TCP Packets in Python
 
-This guide explains, in simple English, how to figure out what **type of data** is inside an IP packet, and how to unpack **ICMP** and **TCP** data.
+This guide explains, how to figure out what **type of data** is inside an IP packet, and how to unpack **ICMP** and **TCP** data.
 
 ---
 
@@ -151,4 +151,3 @@ The next step is to build a similar function for **UDP** packets — the third c
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
