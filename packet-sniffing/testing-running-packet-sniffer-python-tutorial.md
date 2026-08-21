@@ -1,6 +1,6 @@
-# How to Test and Run Your Python Packet Sniffer (Easy English Guide)
+# How to Test and Run Your Python Packet Sniffer
 
-This is the final guide in the series. It explains, in simple English, how to finish displaying TCP and UDP data, and how to **run and test** your finished packet sniffer.
+This is the final guide in the series. It explains, how to finish displaying TCP and UDP data, and how to **run and test** your finished packet sniffer.
 
 ---
 
@@ -104,4 +104,4 @@ With this foundation, you now understand the basics of how a packet sniffer work
 
 ---
 
-*This guide is based on a video tutorial series about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
+
