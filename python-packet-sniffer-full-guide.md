@@ -1,6 +1,6 @@
-# Building a Packet Sniffer in Python — Full Step-by-Step Guide (Easy English)
+# Building a Packet Sniffer in Python — Full Step-by-Step Guide
 
-This is the complete, merged guide for building a packet sniffer in Python, combining all parts of the tutorial series in order. Each section below was originally a separate part — now put together as one full walkthrough from start to finish.
+This is the complete, guide for building a packet sniffer in Python. 
 
 ## Table of Contents
 
