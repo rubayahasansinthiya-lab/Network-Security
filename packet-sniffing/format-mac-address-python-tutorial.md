@@ -1,4 +1,4 @@
-# How to Format a MAC Address in Python (Easy English Guide)
+# How to Format a MAC Address in Python 
 
 This guide explains, in simple English, how to take a raw MAC address (from a packet sniffer) and turn it into a normal, human-readable format.
 
