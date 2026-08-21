@@ -1,6 +1,6 @@
-# How to Build the Main Loop of a Packet Sniffer in Python (Easy English Guide)
+# How to Build the Main Loop of a Packet Sniffer in Python
 
-This guide explains, in simple English, how to build the **main program** for our packet sniffer. This is the part that actually listens for network data and uses our earlier functions to read it.
+This guide explains, how to build the **main program** for our packet sniffer. This is the part that actually listens for network data and uses our earlier functions to read it.
 
 ---
 
