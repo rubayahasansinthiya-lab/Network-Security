@@ -1,6 +1,6 @@
-# How to Unpack an IPv4 Packet in Python (Easy English Guide)
+# How to Unpack an IPv4 Packet in Python
 
-This guide explains, in simple English, how to unpack an **IPv4 packet** — the data that lets your computer talk to other computers on the internet (like Facebook, YouTube, or Reddit).
+This guide explains, how to unpack an **IPv4 packet** — the data that lets your computer talk to other computers on the internet (like Facebook, YouTube, or Reddit).
 
 ---
 
