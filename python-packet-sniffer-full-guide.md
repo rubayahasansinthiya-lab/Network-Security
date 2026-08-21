@@ -17,9 +17,9 @@ This is the complete, guide for building a packet sniffer in Python.
 
 <a id="part-1"></a>
 
-# How to Make a Packet Sniffer in Python (Easy English Guide)
+# How to Make a Packet Sniffer in Python
 
-This guide explains, in simple English, how to start building a **packet sniffer** (also called a **network sniffer**) using Python. A packet sniffer is a tool that looks at the data moving across a network.
+This guide explains, how to start building a **packet sniffer** (also called a **network sniffer**) using Python. A packet sniffer is a tool that looks at the data moving across a network.
 
 ---
 
@@ -152,16 +152,12 @@ In the next part of this tutorial series, we will:
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
-
 
 <a id="part-2"></a>
 
-# How to Format a MAC Address in Python (Easy English Guide)
+# How to Format a MAC Address in Python
 
-This guide explains, in simple English, how to take a raw MAC address (from a packet sniffer) and turn it into a normal, human-readable format.
+This guide explains, how to take a raw MAC address (from a packet sniffer) and turn it into a normal, human-readable format.
 
 ---
 
@@ -273,16 +269,14 @@ Now we have a properly formatted MAC address ready to display to the user, and w
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
 ---
 
 
 <a id="part-3"></a>
 
-# How to Build the Main Loop of a Packet Sniffer in Python (Easy English Guide)
+# How to Build the Main Loop of a Packet Sniffer in Python
 
-This guide explains, in simple English, how to build the **main program** for our packet sniffer. This is the part that actually listens for network data and uses our earlier functions to read it.
+This guide explains, how to build the **main program** for our packet sniffer. This is the part that actually listens for network data and uses our earlier functions to read it.
 
 ---
 
@@ -417,16 +411,12 @@ Now that the basic Ethernet frame handling is working, the next step is to start
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
-
 
 <a id="part-4"></a>
 
-# How to Unpack an IPv4 Packet in Python (Easy English Guide)
+# How to Unpack an IPv4 Packet in Python
 
-This guide explains, in simple English, how to unpack an **IPv4 packet** — the data that lets your computer talk to other computers on the internet (like Facebook, YouTube, or Reddit).
+This guide explains, how to unpack an **IPv4 packet** — the data that lets your computer talk to other computers on the internet (like Facebook, YouTube, or Reddit).
 
 ---
 
@@ -601,16 +591,13 @@ Now that we can unpack both the Ethernet frame and the IPv4 packet, we're ready 
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
 
 
 <a id="part-5"></a>
 
-# How to Unpack ICMP and TCP Packets in Python (Easy English Guide)
+# How to Unpack ICMP and TCP Packets in Python
 
-This guide explains, in simple English, how to figure out what **type of data** is inside an IP packet, and how to unpack **ICMP** and **TCP** data.
+This guide explains, how to figure out what **type of data** is inside an IP packet, and how to unpack **ICMP** and **TCP** data.
 
 ---
 
@@ -644,7 +631,6 @@ elif protocol == 17:
     # unpack using udp_segment()
 ```
 
----
 
 ## Step 3: Build the `icmp_packet` Function
 
@@ -761,16 +747,13 @@ The next step is to build a similar function for **UDP** packets — the third c
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
 
 
 <a id="part-6"></a>
 
-# How to Display IPv4 and ICMP Data in Python (Easy English Guide)
+# How to Display IPv4 and ICMP Data in Python
 
-This guide explains, in simple English, how to check what type of data is inside a packet, and how to **display** the information we've unpacked so far in a clear, readable way.
+This guide explains, how to check what type of data is inside a packet, and how to **display** the information we've unpacked so far in a clear, readable way.
 
 ---
 
@@ -907,16 +890,12 @@ The next step is to finish displaying the TCP and UDP information on screen (fol
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
-
 
 <a id="part-7"></a>
 
-# How to Test and Run Your Python Packet Sniffer (Easy English Guide)
+# How to Test and Run Your Python Packet Sniffer
 
-This is the final guide in the series. It explains, in simple English, how to finish displaying TCP and UDP data, and how to **run and test** your finished packet sniffer.
+This is the final guide in the series. It explains, how to finish displaying TCP and UDP data, and how to **run and test** your finished packet sniffer.
 
 ---
 
@@ -1020,7 +999,4 @@ With this foundation, you now understand the basics of how a packet sniffer work
 
 ---
 
-*This guide is based on a video tutorial series about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
-
----
 
