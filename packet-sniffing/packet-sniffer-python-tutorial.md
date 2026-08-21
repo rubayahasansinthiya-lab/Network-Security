@@ -1,6 +1,6 @@
 # How to Make a Packet Sniffer in Python
 
-This guide explains, in simple English, how to start building a **packet sniffer** (also called a **network sniffer**) using Python. A packet sniffer is a tool that looks at the data moving across a network.
+This guide explains, how to start building a **packet sniffer** (also called a **network sniffer**) using Python. A packet sniffer is a tool that looks at the data moving across a network.
 
 ---
 
