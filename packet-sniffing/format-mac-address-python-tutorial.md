@@ -112,4 +112,3 @@ Now we have a properly formatted MAC address ready to display to the user, and w
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
