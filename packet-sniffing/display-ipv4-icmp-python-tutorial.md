@@ -1,6 +1,6 @@
-# How to Display IPv4 and ICMP Data in Python (Easy English Guide)
+# How to Display IPv4 and ICMP Data in Python
 
-This guide explains, in simple English, how to check what type of data is inside a packet, and how to **display** the information we've unpacked so far in a clear, readable way.
+This guide explains, how to check what type of data is inside a packet, and how to **display** the information we've unpacked so far in a clear, readable way.
 
 ---
 
@@ -137,4 +137,3 @@ The next step is to finish displaying the TCP and UDP information on screen (fol
 
 ---
 
-*This guide is based on a video tutorial about building a packet sniffer in Python. It has been rewritten in simple, easy-to-understand English for beginners.*
