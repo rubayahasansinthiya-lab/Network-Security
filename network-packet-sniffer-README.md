@@ -375,7 +375,7 @@ def ethernet_frame(data):
 
 After unpacking, the destination and source addresses are **not yet** in the normal MAC address format you're used to seeing (like `00:1A:2B:3C:4D:5E`).
 
-To fix this, we will need a **second function** (covered in the next video/tutorial) called something like `get_mac_address`. This function will:
+To fix this, we will need a **second function** (covered in the next part 2) called something like `get_mac_address`. This function will:
 
 1. Take the raw destination and source addresses.
 2. Format them properly into a human-readable MAC address.
