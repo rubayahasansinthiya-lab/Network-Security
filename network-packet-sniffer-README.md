@@ -1304,7 +1304,7 @@ With this foundation, you now understand the basics of how a packet sniffer work
 
 <div align="center">
 
-**Rubaya Hasan Sinthiya**
+**Rubaya Hasan**
 <br>
 *Cyber Security Engineering Student*
 
