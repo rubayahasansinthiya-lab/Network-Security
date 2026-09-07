@@ -1318,6 +1318,5 @@ With this foundation, you now understand the basics of how a packet sniffer work
 
 <div align="center">
 
-*If this project helped you understand networking or Python sockets, consider giving it a *
 
 </div>
