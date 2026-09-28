@@ -1,7 +1,5 @@
 # DHCP and the DORA Process (Complete Notes)
 
-> Tip for Notion: paste this file into a Notion page. Upload `dhcp_dora_diagram.png` under Section 10.
-
 ---
 
 ## 1. What is DHCP?
@@ -399,28 +397,7 @@ print("Sent 20 fake Discover packets (lab demo only).")
 
 ## 12. Diagram
 
-![DHCP DORA diagram](dhcp_dora_diagram.png)
+<img width="1425" height="1762" alt="dhcp_dora_diagram" src="https://github.com/user-attachments/assets/b7a720c1-01d4-4820-90d2-065986a15659" />
 
-Text version of the diagram:
 
-```
-[ Client (IP: 0.0.0.0) ]                              [ DHCP Server ]
-        |                                                    |
-        | -- 1. DHCP DISCOVER (Broadcast) -----------------> |
-        |    IP: 0.0.0.0 -> 255.255.255.255                  |
-        |    MAC: Client MAC -> FF:FF:FF:FF:FF:FF            |
-        |                                                    |
-        | <---------------- 2. DHCP OFFER ------------------ |
-        |    IP: Server IP -> 255.255.255.255                |
-        |    MAC: Server MAC -> Client MAC (Unicast)         |
-        |                                                    |
-        | -- 3. DHCP REQUEST (Broadcast) ------------------> |
-        |    IP: 0.0.0.0 -> 255.255.255.255                  |
-        |    MAC: Client MAC -> Server MAC (Unicast)         |
-        |                                                    |
-        | <------------ 4. DHCP ACKNOWLEDGE ---------------- |
-        |    IP: Server IP -> 255.255.255.255                |
-        |    MAC: Server MAC -> Client MAC (Unicast)         |
-        |                                                    |
-[ Connected! IP active ]                     [ IP leased to Client MAC ]
 ```
